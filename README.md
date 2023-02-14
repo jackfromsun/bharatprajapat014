@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [MACHINE LEARNING | DEEP LEARNING](MACHINE LEARNING | DEEP LEARNING)
 
-- 💬 Ask me about- **DSA | NODEJS | PYTHON-OPS-DA**
+- 💬 Ask me about- **DSA | NODEJS | PYTHON-OOP-DA**
 
 - 📫 Mail - **ajayy9242@gmail.com**
 
