@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVASCIPT**
 
-- 📝 I regularly write articles on [MACHINE LEARNING | DEEP LEARNING](MACHINE LEARNING | DEEP LEARNING)
+
 
 - 💬 Ask me about- **DSA | NODEJS | PYTHON-OOP-DA**
 
